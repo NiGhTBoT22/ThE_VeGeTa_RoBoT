@@ -1,5 +1,5 @@
 {
-      "name": "ThE_VeGeTa_RoBoT",
+      "name": "Vegetabot",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/273496a28bd1b9fc26b96.jpg", 
       "keywords": [
@@ -7,7 +7,7 @@
          "anime",
          "group",
          "manager",
-         "VeGeTa"
+         "Vegeta"
       ],   
    "repository": "https://github.com/NiGhTBoT22/ThE_VeGeTa_RoBoT",
    "addons": [
@@ -152,7 +152,7 @@
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people. Keep this Empty",
          "required": false,
-         "value": ""
+         "value": "CAACAgQAAx0CU_rCTAABAczQXyBOv1TsVK4EfwnkCUT1H0GCkPQAAtwAAwEgTQaYsMtAltpEwhoE"
       },
       "MONGO_DB_URI": {
          "description": "Your Mongo DB URI",
