@@ -2,7 +2,7 @@ from telethon import events
 from ThE_VeGeTa_RoBoT import telethn
 
 """Triggers start command in pm and in groupchats"""
-def vegetarobot(**args):
+def vegetabot(**args):
     """New message."""
     pattern = args.get('pattern', None)
     r_pattern = r'^[/!]'
