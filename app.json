@@ -49,7 +49,7 @@
          "value": ""
       },
       "SUPPORT_CHAT": {
-         "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions. This MUST NOT be pointing towards TangentChats",
+         "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions. This MUST NOT be pointing towards VeGeTa_support",
          "required": true,
          "value": "SupportGroupName"
       },
