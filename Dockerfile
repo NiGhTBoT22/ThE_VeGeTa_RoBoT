@@ -64,7 +64,7 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-RUN git clone -b https://github.com/NiGhTBoT22/ThE_VeGeTa_RoBoT /app
+RUN git clone -b main https://github.com/NiGhTBoT22/ThE_VeGeTa_RoBoT /app
 WORKDIR /app
 
 COPY ./ThE_VeGeTa_RoBoT/sample_config.py ./ThE_VeGeTa_RoBoT/config.py* /app/ThE_VeGeTa_RoBoT/
