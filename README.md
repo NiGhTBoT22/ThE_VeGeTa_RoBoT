@@ -58,7 +58,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/NiGhTBoT22/ThE_VeGeTa_RoBoT/tree/Stable">
+        <a href="https://heroku.com/deploy?template=https://github.com/NiGhTBoT22/ThE_VeGeTa_RoBoT">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
 </h1>
